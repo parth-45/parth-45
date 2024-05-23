@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# I'm Parth
+
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on the same
+
 <!--
 **parth-45/parth-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
